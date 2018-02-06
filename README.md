@@ -4,4 +4,5 @@ The main purpose of this repository is as a central place to store this stuff fo
 If you want to redistribute and give me some credit it is appreciated, but in now way required.  
 
 # Table of Contents (I will try to keep this up to date)  
-* Setting up gnome3 on Ubuntu based distros [here](ubuntu_setup_gnome3.md)
+* [Setting up gnome3 on Ubuntu based distros](ubuntu_setup_gnome3.md)
+* [Edit files from your remote server via local VSCode](vscode_rmate.md)
