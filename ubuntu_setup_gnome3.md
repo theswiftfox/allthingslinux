@@ -1,5 +1,8 @@
 # Ubuntu 17.10 Setup with Gnome3 Desktop  
 
+This is how it looks like:  
+![desktop-preview](screenshots/desktop.png)
+
 ## Applications
 Filemanager: Caja, Dropdown Terminal: Guake, Spotlight: Cerebro  
 You can get the first two via apt:  
