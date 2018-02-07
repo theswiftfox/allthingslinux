@@ -28,7 +28,10 @@ Im using following extensions for gnome3:
 * [system-monitor](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet)  
 * [TopIcons](https://github.com/phocean/TopIcons-plus)  
 
-Dash to dock is set to the bottom with Icon Size 24 and panel mode with Appearance -> Shrink the dash on.
+Dash to dock is set to position at the bottom on all screens, with an Icon Size of 24 and panel mode on.  
+On the appearance tab in the dash to dock settings make sure to set these options on:  
+* Shrink the dash  
+* Show window counter indicators  
 
 ## Applications
 Filemanager: Caja, Dropdown Terminal: Guake, Spotlight: Cerebro  
