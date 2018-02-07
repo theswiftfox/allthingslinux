@@ -1,7 +1,8 @@
 # Using Visual Studio Code as editor via ssh
 
 There is a great tool available called [rmate]() that can be used to edit files with your local editor when accessing a remote machine via ssh.  
-The setup is quite simple:  
+
+# Setup
 
 ## Client side
 #### VSCode
