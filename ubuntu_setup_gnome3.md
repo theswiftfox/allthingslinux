@@ -53,8 +53,9 @@ xhost +SI:localuser:root
 ```
 To apply the fix automatically on every boot add this line to your .bashrc or .zshrc (or other shell rc..)
 ```
-source ~/fixSudoWayland.sh
+source ~/fixSudoWayland.sh >/dev/null 2>&1
 ```
+The part ">/dev/null 2>&1" suppresses the output from the script, so you won't have it showing up everytime you launch a terminal.  
 
 ## zsh and .oh-my-zsh
 ```
