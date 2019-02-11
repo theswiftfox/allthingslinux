@@ -1,0 +1,12 @@
+alias cls="clear"
+
+open() {
+        nohup dde-file-manager "$1" </dev/null > /tmp/filemgr.log 2>&1 &
+}
+
+cheatsh() {
+        curl cht.sh/"$1"
+}
+
+alias code="code-insiders"
+alias ncode="code -n"
